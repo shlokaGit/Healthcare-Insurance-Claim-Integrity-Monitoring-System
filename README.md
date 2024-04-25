@@ -4,7 +4,8 @@ Predicted fraudulent insurance claims on a healthcare insurance company dataset.
 
 ## Description
 
-This notebook displays all the major steps of end-to-end Data Science life cycle process for this problem:
+This notebook displays all the major steps of end-to-end Data Science life cycle process performed to handle this problem:
+*  Combining data files with over 500,000 records and more than 50 features
 *  Pre-processing
 *  Feature engineering
 *  Exploratory data analysis
